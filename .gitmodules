@@ -1,0 +1,3 @@
+[submodule "stylizer"]
+	path = stylizer
+	url = https://github.com/doxy-ai/stylizer
