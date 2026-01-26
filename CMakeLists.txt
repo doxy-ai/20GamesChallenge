@@ -10,3 +10,4 @@ endif()
 add_subdirectory(stylizer)
 
 add_subdirectory(0-HelloGUI)
+add_subdirectory(0.1-Fish)
